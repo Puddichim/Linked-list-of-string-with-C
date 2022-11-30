@@ -1,2 +1,2 @@
-# Linked-list-of-string-with-C
+# Linked list of string with C
 
